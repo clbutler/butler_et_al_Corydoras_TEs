@@ -1,6 +1,6 @@
 
 
-Hello. Thank you for visiting this GitHub page which contains the data availability for our paper entitled "The role of polyploidy and horizontal transfer when describing transposable element proliferation within Neotropical Corydoradinae catfishes" (Butler et al, 2022).
+Hello. Thank you for visiting this GitHub page which contains the data availability for our paper entitled *"The role of polyploidy and horizontal transfer when describing transposable element proliferation within Neotropical Corydoradinae catfishes"* (Butler et al, 2022).
 
 Here you can find
 1) Figures -  both main text and suppplementary figures are found in both PDF and PowerPoint format
