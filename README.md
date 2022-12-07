@@ -8,6 +8,8 @@ Here you can find
 
 For ease of use, file and folder navigation are conducted relative to the current script location within GitHub. This was handily achieved using the rstudioapi package https://cran.r-project.org/web/packages/rstudioapi/rstudioapi.pdf (getActiveProject).
 
+If you are having trouble rendering html files provided please use the following service https://htmlpreview.github.io/
+
 If you have any questions regarding this content please do get into contact with myself at 96clbutler@gmail.com. 
 
 
