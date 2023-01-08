@@ -1,0 +1,1 @@
+CTG60 is lineage 1 - the rest are Lineage 9 
